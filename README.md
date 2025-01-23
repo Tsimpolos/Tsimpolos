@@ -1,8 +1,9 @@
 
 <p align="center">
   <a href="https://github.com/Tsimpolos">
-    <img src="https://github.com/user-attachments/assets/fdb47299-b2fb-4c88-81ee-6d6cf599dcd2" /></a>
+    <img src="https://github.com/user-attachments/assets/f5a9b4db-20ff-4d42-8ba7-1fc4c3387d08" /></a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Tsimpolos">
