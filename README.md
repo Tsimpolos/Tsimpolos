@@ -16,3 +16,5 @@ Hello 👋! I'm Panagiotis Tsimpouris, an international student at Lewis & Clark
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **"Discover what sets your soul on fire, and find a way to turn it into your livelihood."**
 
+![](https://komarev.com/ghpvc/?username=Tsimpolos)
+
