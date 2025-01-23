@@ -1,3 +1,8 @@
+
+<p align="center">
+  <a href="https://github.com/Tsimpolos">
+    <img src="https://github.com/user-attachments/assets/42aa4642-de1d-43f3-b81b-6d99341d2f95" alt="Panagiotis Tsimpouris" /></a>
+</p>
 <p align="center">
   <a href="https://github.com/Tsimpolos">
     <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=35&duration=4000&pause=1500&color=F75C7E&center=true&width=435&lines=Panagiotis+Tsimpouris" /></a>
