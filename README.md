@@ -9,10 +9,10 @@ Hello 👋! I'm Panagiotis Tsimpouris, an international student at Lewis & Clark
 
 
 
-- 🔭 I’m currently open to work
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently **open to work**
+- 🌱 I’m currently learning **Javascript**
 - 💬 Ask me about ...
-- 📫 How to reach me:<a href= "mailto:tsimpourisp@gmail.com">tsimpourisp@gmail.com</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: <a href= "mailto:tsimpourisp@gmail.com">tsimpourisp@gmail.com</a>
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **"Discover what sets your soul on fire, and find a way to turn it into your livelihood."**
 
