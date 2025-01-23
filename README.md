@@ -36,6 +36,5 @@ Hello 👋! I'm Panagiotis Tsimpouris, an international student at Lewis & Clark
 - ⚡ Fun fact: **"Discover what sets your soul on fire, and find a way to turn it into your livelihood."**
 
 ![](https://komarev.com/ghpvc/?username=Tsimpolos)
- <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://komarev.com/ghpvc/?username=Tsimpolos"/></a>
+ 
 
