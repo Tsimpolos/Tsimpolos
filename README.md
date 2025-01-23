@@ -1,4 +1,8 @@
-<h1 align="center">Panagiotis Tsimpouris💎</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51C4F7&center=true&width=435&lines=Panagiotis+Tsimpouris;Full+Stack+Developer" /></a>
+</p>
 
 ![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f35346236633036383039373539392e356235306263613437366239622e676966](https://github.com/user-attachments/assets/a76382f6-10a3-4b11-a8de-d3147fe30980)
 <br>
