@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Tsimpolos">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=35&duration=4000&pause=1500&color=F75C7E&center=true&width=435&lines=Panagiotis+Tsimpouris" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&pause=1000&color=C03D50&width=435&lines=Web+Developer;Data+Scientist+;Cybersecurity+Specialist" /></a>
 </p>
 
 <!--![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f35346236633036383039373539392e356235306263613437366239622e676966](https://github.com/user-attachments/assets/a76382f6-10a3-4b11-a8de-d3147fe30980)-->
