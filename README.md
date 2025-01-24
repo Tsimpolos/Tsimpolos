@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/f5a9b4db-20ff-4d42-8ba7-1fc4c3387d08"/></a>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Tsimpolos">
 <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=C03D50&width=435&lines=Web+Developer;Data+Scientist+;Cybersecurity"/></a>
 </p>
