@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsimpolos&label=Profile%20views&color=0e75b6&style=flat" alt="tsimpolos" /> </p>
 <p align="center">
   <a href="https://github.com/Tsimpolos">
     <img src="https://github.com/user-attachments/assets/f5a9b4db-20ff-4d42-8ba7-1fc4c3387d08" /></a>
