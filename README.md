@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tsimpolos&label=Profile%20views&color=0e75b6&style=flat" alt="tsimpolos" /> </p>
 <p align="center">
 <a href="https://github.com/Tsimpolos">
-<img src="https://github.com/user-attachments/assets/f5a9b4db-20ff-4d42-8ba7-1fc4c3387d08"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&letterSpacing=0.2rem&duration=1&pause=1000&color=49F79E&center=true&repeat=false&width=435&lines=Panagiotis+Tsimpouris" alt="Typing SVG" />"/></a>
 </p>
 
 <p align="center">
